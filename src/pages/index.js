@@ -49,7 +49,7 @@ export default function Page() {
         <div className="container">
           <section className="hero text-center">
             <Heading className={styles.heading} level="h1">
-              Welcome to your Blueprint
+              Welcome to Upstate Politics
             </Heading>
             <p className={styles.description}>
               Achieve unprecedented performance with modern frameworks and the
